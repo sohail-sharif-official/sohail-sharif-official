@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="376" viewBox="0 0 1200 376" fill="none">
+  <rect width="1200" height="376" rx="16" fill="#10141a"/>
+  <rect x="16" y="14" width="10" height="22" rx="3" fill="#4edea3"/>
+  <text x="36" y="31" fill="#dfe2eb" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">Tech Stack Ecosystem</text>
+  <text x="1040" y="30" fill="#87929a" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">PRODUCTION TESTED</text>
+
+  <rect x="16" y="50" width="1168" height="312" rx="12" fill="#1c2026" stroke="#262a31" stroke-width="1.5"/>
+  <text x="42" y="93" fill="#8ed5ff" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">CORE LANGUAGES</text>
+  <rect x="240" y="72" width="116" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="254" cy="88" r="4" fill="#ffb4ab"/>
+  <text x="264" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Java 21 LTS</text>
+  <rect x="366" y="72" width="116" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="380" cy="88" r="4" fill="#c5c9ff"/>
+  <text x="390" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">C# / .NET 9</text>
+  <rect x="492" y="72" width="108" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="506" cy="88" r="4" fill="#8ed5ff"/>
+  <text x="516" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">TypeScript</text>
+  <rect x="610" y="72" width="116" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="624" cy="88" r="4" fill="#4edea3"/>
+  <text x="634" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Python 3.12</text>
+  <rect x="736" y="72" width="116" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="750" cy="88" r="4" fill="#7bd0ff"/>
+  <text x="760" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Go (Golang)</text>
+  <rect x="862" y="72" width="140" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <circle cx="876" cy="88" r="4" fill="#87929a"/>
+  <text x="886" y="92" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">SQL / PL-pgSQL</text>
+  <line x1="42" y1="116" x2="1158" y2="116" stroke="#262a31" stroke-width="1"/>
+  <text x="42" y="151" fill="#4edea3" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">BACKEND SERVICES</text>
+  <rect x="240" y="130" width="126" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="251" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Spring Boot 3</text>
+  <rect x="376" y="130" width="118" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="387" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">ASP.NET Core</text>
+  <rect x="504" y="130" width="78" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="515" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">FastAPI</text>
+  <rect x="592" y="130" width="118" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="603" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Django / DRF</text>
+  <rect x="720" y="130" width="150" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="731" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Node.js / NestJS</text>
+  <rect x="880" y="130" width="142" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="891" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">gRPC / Protobuf</text>
+  <rect x="1032" y="130" width="134" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="1043" y="150" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">GraphQL &amp; REST</text>
+  <line x1="42" y1="174" x2="1158" y2="174" stroke="#262a31" stroke-width="1"/>
+  <text x="42" y="209" fill="#c5c9ff" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">DATA &amp; STREAMS</text>
+  <rect x="240" y="188" width="118" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="251" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Apache Kafka</text>
+  <rect x="368" y="188" width="86" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="379" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">RabbitMQ</text>
+  <rect x="464" y="188" width="126" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="475" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Redis Cluster</text>
+  <rect x="600" y="188" width="102" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="611" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">PostgreSQL</text>
+  <rect x="712" y="188" width="102" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="723" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">SQL Server</text>
+  <rect x="824" y="188" width="78" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="835" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">MongoDB</text>
+  <rect x="912" y="188" width="126" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="923" y="208" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Elasticsearch</text>
+  <line x1="42" y1="232" x2="1158" y2="232" stroke="#262a31" stroke-width="1"/>
+  <text x="42" y="267" fill="#7bd0ff" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">CLOUD &amp; INFRA</text>
+  <rect x="240" y="246" width="174" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="251" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">AWS (EKS, RDS, SQS)</text>
+  <rect x="424" y="246" width="110" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="435" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Azure (AKS)</text>
+  <rect x="544" y="246" width="102" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="555" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Kubernetes</text>
+  <rect x="656" y="246" width="70" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="667" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Docker</text>
+  <rect x="736" y="246" width="126" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="747" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Terraform IaC</text>
+  <rect x="872" y="246" width="182" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="883" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">GitHub Actions CI/CD</text>
+  <rect x="1064" y="246" width="110" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="1075" y="266" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Helm Charts</text>
+  <line x1="42" y1="290" x2="1158" y2="290" stroke="#262a31" stroke-width="1"/>
+  <text x="42" y="325" fill="#4edea3" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">OBSERVABILITY</text>
+  <rect x="240" y="304" width="102" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="251" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Prometheus</text>
+  <rect x="352" y="304" width="166" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="363" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Grafana Dashboards</text>
+  <rect x="528" y="304" width="126" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="539" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">OpenTelemetry</text>
+  <rect x="664" y="304" width="110" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="675" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">Datadog APM</text>
+  <rect x="784" y="304" width="150" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="795" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">ELK / CloudWatch</text>
+  <rect x="944" y="304" width="134" height="32" rx="6" fill="#262a31" stroke="#31353c" stroke-width="1"/>
+  <text x="955" y="324" fill="#dfe2eb" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="500">PagerDuty SLOs</text>
+</svg>
