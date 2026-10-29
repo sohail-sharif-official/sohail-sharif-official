@@ -13,6 +13,10 @@
 ### 📦 Featured Enterprise Architecture Repositories
 
 <p align="center">
+  <img src="assets/nda-compliance-banner.svg" width="100%" alt="Enterprise Confidentiality, NDA & Clean-Room Reference Policy" />
+</p>
+
+<p align="center">
   <a href="https://github.com/sohail-sharif-official/clean-architecture-tenant-api"><img src="assets/repo-1.svg" width="49%" alt="clean-architecture-tenant-api" /></a>
   <a href="https://github.com/sohail-sharif-official/transactional-payment-ledger"><img src="assets/repo-2.svg" width="49%" alt="transactional-payment-ledger" /></a>
 </p>

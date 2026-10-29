@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" fill="none">
+  <rect width="1200" height="148" rx="12" fill="#141922" stroke="#262a31" stroke-width="1.5"/>
+  <rect x="0" y="0" width="6" height="148" rx="3" fill="#4edea3"/>
+  <!-- Shield / Lock Badge -->
+  <rect x="28" y="24" width="44" height="44" rx="10" fill="#4edea3" fill-opacity="0.12" stroke="#4edea3" stroke-width="1"/>
+  <text x="41" y="53" fill="#4edea3" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="20" font-weight="700">🔒</text>
+
+  <text x="88" y="42" fill="#dfe2eb" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700">Enterprise Confidentiality, NDA &amp; Clean-Room Reference Policy</text>
+  <rect x="945" y="22" width="225" height="24" rx="12" fill="#1c2026" stroke="#31353c" stroke-width="1"/>
+  <text x="960" y="38" fill="#4edea3" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11" font-weight="600">IP &amp; NDA COMPLIANT ARCHIVE</text>
+
+  <text x="88" y="72" fill="#bdc8d1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">Due to strict corporate Non-Disclosure Agreements (NDAs), SOC2/HIPAA data governance, and proprietary IP policies across enterprise</text>
+  <text x="88" y="94" fill="#bdc8d1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">employers and clients, production source code, internal cloud manifests, and proprietary integrations remain in private enterprise</text>
+  <text x="88" y="116" fill="#bdc8d1" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5">repositories. The repositories below are clean-room architectural cores isolating key domain invariants &amp; state machines for technical review.</text>
+</svg>
