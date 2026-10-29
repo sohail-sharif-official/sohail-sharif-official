@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-sohailsharif.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pennsylvania%2C_USA-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-United_States-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location" />
   &nbsp;
   <img src="https://img.shields.io/badge/Experience-9%2B_Years-10B981?style=for-the-badge" alt="9+ Years Experience" />
 </p>
@@ -90,7 +90,9 @@ I am a **Senior Software Engineer** with **9+ years of experience** designing, b
 
 ---
 
-## 🏛️ Featured Engineering Systems & Architecture Repositories
+## 🏛️ Open-Source Reference Architectures & Core Engines
+
+> Selected open-source domain engines and reference implementations extracted from enterprise production patterns, featuring self-contained verification suites and GitHub Actions CI.
 
 | System Repository | Stack & Domain | Architectural Focus & Engineering Highlights |
 | :--- | :--- | :--- |
@@ -115,5 +117,5 @@ I am a **Senior Software Engineer** with **9+ years of experience** designing, b
 
 <p align="center">
   <strong>Sohail Sharif — Senior Software Engineer</strong><br />
-  Pennsylvania, United States · <a href="mailto:sohailsharif.official@gmail.com">sohailsharif.official@gmail.com</a> · <a href="https://www.linkedin.com/in/sohail-sharif-4a0735248/">LinkedIn</a>
+  United States · <a href="mailto:sohailsharif.official@gmail.com">sohailsharif.official@gmail.com</a> · <a href="https://www.linkedin.com/in/sohail-sharif-4a0735248/">LinkedIn</a>
 </p>
